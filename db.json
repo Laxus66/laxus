@@ -1,0 +1,46 @@
+{
+  "imgTemplates": [
+    {
+      "id": 1,
+      "name": "icons8",
+      "title": "Sở hữu những phong cách đa dạng, icons8 hứa hẹn là trang web khiến các Designer 'mê muội' đó nha!",
+      "link": "https://icons8.com/illustrations/styles"
+    },
+    {
+      "id": 2,
+      "name": "Blush",
+      "title": "Blush luôn được các Designer yêu thích bởi hình ảnh sắc nét, mới lạ và đầy sáng tạo. Nếu bạn muốn hình ảnh của mình trông thật nổi bật, Blush là một trang web không nên bỏ qua!",
+      "link": "https://blush.design/ja"
+    },
+    {
+      "id": 3,
+      "name": "Freepik",
+      "title": "Freepik là một 'kho tàng' hình ảnh vector, PNG với đa dạng chủ đề cho bạn thỏa thích khám phá! Sử dụng những hình minh họa từ Freepik sẽ giúp nội dung của bạn trông thật bắt mắt và hấp dẫn.",
+      "link": "https://www.freepik.com/"
+    },
+    {
+      "id": 4,
+      "name": "Pngfree",
+      "title": "Trang web pntree từ lâu đã được biết đến như một nguồn tài nguyên dồi dào cho bất kỳ ai yêu thích thiết kế hình ảnh. Đặc biệt hơn, bạn hoàn toàn có thể sử dụng tiếng Việt để tìm kiếm hình ảnh, đảm bảo những kết quả trang web đưa ra sẽ khiến bạn hài lòng.",
+      "link": "https://vi.pngtree.com/"
+    },
+    {
+      "id": 5,
+      "name": "Craftwork",
+      "title": "Cuối tháng 12/2020, Craftwork đã tung bộ 3D Illustrations vô cùng bắt mắt với những hình ảnh về công nghệ, thực tế ảo,...",
+      "link": "https://craftwork.design/downloads/slam/"
+    },
+    {
+      "id": 6,
+      "name": "Blush",
+      "title": "Blush luôn được các Designer yêu thích bởi hình ảnh sắc nét, mới lạ và đầy sáng tạo. Nếu bạn muốn hình ảnh của mình trông thật nổi bật, Blush là một trang web không nên bỏ qua!",
+      "link": "https://blush.design/ja"
+    },
+    {
+      "id": 7,
+      "name": "Streamline",
+      "title": "Với tông màu pastel ngọt ngào và những hình ảnh minh họa hấp dẫn, Streamline sẽ là nguồn tài nguyên mà các Designer không nên bỏ qua! P/s: Mục Emojis khá là đẹp và dễ thương, thích hợp cho các bạn tán tỉnh, đổi gió sticker. Hãy thử ngay nhé!",
+      "link": "https://www.streamlinehq.com/illustrations"
+    }
+  ]
+}
